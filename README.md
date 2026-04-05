@@ -1,23 +1,13 @@
-<h2 align="left">👋 Olá, eu sou o Diogo — Desenvolvedor focado em backend, APIs e sistemas com IA</h2>
+# 👋 Olá, eu sou o Diogo — Desenvolvedor focado em backend, APIs e sistemas com IA
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dioguinho-max&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dioguinho-max&layout=compact&theme=dracula" height="150" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
-###
+---
 
 ## 🧠 Sobre mim
 
 Desenvolvedor focado na construção de sistemas reais e funcionais.
 
 Tenho experiência com:
+
 - APIs em Flask  
 - Autenticação segura (JWT + CSRF)  
 - PostgreSQL com Row Level Security (RLS)  
@@ -29,7 +19,7 @@ Atualmente desenvolvendo o **Resolve AI**, uma plataforma completa de estudos co
 
 ## 🚀 Projeto em destaque
 
-**Resolve AI**
+### Resolve AI
 
 Plataforma full-stack de estudos com IA, voltada para resolução estruturada de problemas.
 
@@ -44,28 +34,21 @@ Plataforma full-stack de estudos com IA, voltada para resolução estruturada de
 
 ## 🛠️ Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Dioguinho-max&show_icons=true&theme=dracula)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dioguinho-max&layout=compact&theme=dracula)
 
 ---
 
 ## 📫 Contato
 
-<div align="left">
-  <a href="https://github.com/Dioguinho-max">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" height="35" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- GitHub: https://github.com/Dioguinho-max
