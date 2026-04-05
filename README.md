@@ -21,16 +21,14 @@ Atualmente desenvolvendo o **Resolve AI**, uma plataforma completa de estudos co
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Resolve AI
 
-### Resolve AI
+Plataforma de estudos com IA focada na resolução de problemas.
 
-Plataforma full-stack de estudos com IA, voltada para resolução estruturada de problemas.
-
-- API REST com Flask  
-- Sistema de autenticação seguro  
-- Resolução matemática com SymPy  
-- Dashboard com métricas de uso  
+- API em Flask com autenticação segura (JWT + CSRF)
+- PostgreSQL com Row Level Security (RLS)
+- Resolução matemática com SymPy e geração de gráficos
+- Chat inteligente com histórico e dashboard de uso
 
 🔗 https://github.com/Dioguinho-max/Resolve_IA
 
