@@ -47,7 +47,7 @@ Plataforma full-stack de estudos com IA, voltada para resolução estruturada de
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dioguinho-max&show_icons=true&theme=dracula&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dioguinho-max&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dioguinho-max&layout=compact&theme=dracula&hide_border=true)
 
