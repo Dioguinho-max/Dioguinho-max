@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou o Diogo — Desenvolvedor focado em backend, APIs e sistemas com IA
 
+<p align="right">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="140"/>
+</p>
+
 ---
 
 ## 🧠 Sobre mim
