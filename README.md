@@ -73,7 +73,7 @@ Plataforma de estudos com Inteligência Artificial.
 - Deep Learning
 - Computer Vision
 - Large Language Models (LLMs)
-- Engenharia de Software
+- Computer science
 
 ---
 
