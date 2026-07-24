@@ -5,13 +5,17 @@
 </p>
 
 ---
+# 🥇 Medalhista de Ouro — ONIA 2026
 
-# 🥇 Medalhista de Ouro da ONIA 2026
+> **Medalha de Ouro na ONIA 2026 (Olimpíada Nacional de Inteligência Artificial)**
 
-> **Medalha de Ouro na ONIA 2026 (Olimpíada Nacional de Inteligência Artificial)**  
-> 🏆 Um dos **28 medalhistas de ouro do Brasil**.
+Após iniciar meus estudos em Inteligência Artificial do zero, desenvolvi uma solução de Machine Learning para a fase final da ONIA 2026, executada no supercomputador **Santos Dumont (LNCC)**.
 
-Na fase final da competição desenvolvi uma solução de **Machine Learning** para classificação de tarefas e detecção de anomalias em telemetria de um braço robótico, executada no supercomputador **Santos Dumont (LNCC)**.
+🏆 Resultado:
+- 🥇 Medalha de Ouro
+- 🇧🇷 Um dos **28 medalhistas de ouro do Brasil**
+
+Essa experiência consolidou meus conhecimentos em Machine Learning, processamento de dados, detecção de anomalias, séries temporais e computação de alto desempenho (HPC).
 
 ---
 
