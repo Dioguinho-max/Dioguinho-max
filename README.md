@@ -39,23 +39,74 @@ Atualmente desenvolvendo o **Resolve AI**, uma plataforma completa de estudos co
 
 # 🚀 Projeto em destaque
 
-## Resolve AI
+## Tech & IA Blog
 
-Plataforma de estudos com Inteligência Artificial.
+Plataforma full-stack de conteúdo sobre **tecnologia, programação, Linux, APIs e Inteligência Artificial**.
+
+O projeto começou como um blog simples desenvolvido com HTML, CSS e JavaScript e evoluiu para uma aplicação completa, com backend, banco de dados, contas de usuários, painel administrativo e um assistente de Inteligência Artificial integrado aos artigos.
 
 ### Principais recursos
 
-- 💬 Chat inteligente
-- 📈 Dashboard de uso
-- 🔐 Login seguro (JWT + CSRF)
-- 🧮 Resolução matemática utilizando SymPy
-- 📊 Geração automática de gráficos
-- 🗄️ PostgreSQL + RLS
-- ⚡ API em Flask
+* 📰 Sistema dinâmico de artigos
+* 🔎 Busca e filtros por categoria
+* 🌙 Dark mode
+* 📱 Interface responsiva
+* 🔐 Cadastro e autenticação de usuários
+* 🔑 Login social com Google
+* 👤 Perfil e avatar de usuário
+* ⭐ Sistema de favoritos
+* 📖 Progresso de leitura dos artigos
+* 🛠️ Painel administrativo
+* 🤖 Assistente de Inteligência Artificial
+* 🧠 IA contextualizada com o conteúdo dos artigos
+* ✨ Resumo e explicação automática dos conteúdos
+* 🗄️ PostgreSQL com Supabase
+* 🛡️ Rate limiting e controles de uso da IA
+* 🔎 SEO, Schema.org e sitemap dinâmico
+* ☁️ Deploy distribuído entre Vercel, Render e Supabase
+
+### Arquitetura
+
+```text
+Usuário
+   ↓
+Vercel
+HTML + CSS + JavaScript
+   │
+   ├── Supabase Auth
+   └── Supabase Storage
+   ↓
+Render
+Node.js + Express
+   │
+   ├── API REST
+   ├── Administração
+   ├── Segurança
+   └── Integração com IA
+   ↓
+Supabase PostgreSQL
+```
+
+### Inteligência Artificial
+
+O blog possui um assistente integrado capaz de responder perguntas sobre:
+
+* Inteligência Artificial
+* Linux
+* Programação
+* Desenvolvimento Web
+* APIs
+* Conceitos de tecnologia
+
+Dentro dos artigos, o assistente também pode receber informações do conteúdo atual para gerar respostas contextualizadas.
+
+### Acesse o projeto
+
+🌐 **Blog:** https://techiablog.vercel.app/
 
 ### Repositório
 
-🔗 https://github.com/Dioguinho-max/Resolve_IA
+🔗 **GitHub:** https://github.com/Dioguinho-max/blog-tecnologia
 
 ---
 
@@ -84,6 +135,7 @@ Plataforma de estudos com Inteligência Artificial.
 # 📫 Contato
 
 - GitHub: https://github.com/Dioguinho-max
+- 📧 E-mail para projetos: [cooldeamis@gmail.com](mailto:cooldeamis@gmail.com)
 
 ---
 
